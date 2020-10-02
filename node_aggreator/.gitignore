@@ -1,0 +1,7 @@
+config/config.js
+config/db.js
+node_modules/*
+package-lock.json
+public/images/*
+public/post/images/*
+public/post/videos/*
